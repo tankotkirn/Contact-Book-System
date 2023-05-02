@@ -1,9 +1,4 @@
 
-<h3>   Project Title: ☎ CONTACT BOOK SYSTEM ☎ </h3>
-<h3>    GitHub Repo: github.com/tankotkirn/Contact-Book-System </h3>
-<h3>    PROBLEM DEFINITION </h3>
-
-<h3>    Title of the project </h3>
 <h1>   CONTACT BOOK SYSTEM </h1>
 <h3>   Objective/vision/main goal of developing the software application </h3>
 
@@ -25,5 +20,5 @@
 
 	To have complete idea of how and where to save and store variability of modules
 
-
+ [Link to GitHub Repo](github.com/tankotkirn/Contact-Book-System)
 
