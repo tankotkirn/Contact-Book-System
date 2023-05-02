@@ -1,5 +1,5 @@
-##  Vimoksh Bhavsar
-#   Mail: vimoksh5@gmail.com 
+#  Vimoksh Bhavsar
+--   Mail: vimoksh5@gmail.com 
 #   GitHub: github.com/tankotkirn
 #   LinkedIn: www.linkedin.com/in/vimoksh-bhavsar-022a62223
 
